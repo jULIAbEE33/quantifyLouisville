@@ -40,6 +40,14 @@ footer {
     color: #fff;
     padding: 5% 5% 5% 5%;
 }
+
+.eric {
+    border-radius: 50%;
+}
+
+.mike {
+    border-radius: 50%;
+}
 /********** PSEUDO-ELEMENTS AND FONT AWESOME ICONS **********/
 .fa {
     padding: 15px;
