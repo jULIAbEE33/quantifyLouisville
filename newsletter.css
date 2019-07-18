@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
   }
+  /********** Countdown Timer **********/
   .page{
     background: #f1f1f1;
     display: flex;
@@ -40,7 +41,7 @@
   .time span div{
     font-size: 40px;
   }
-  
+  /********** Newsletter Form **********/
   .newsletter{
     width: 90%;
   }
