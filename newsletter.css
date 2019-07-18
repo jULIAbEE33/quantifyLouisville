@@ -68,6 +68,7 @@
   .newsletter-btn:hover{
     opacity: .7;
   }
+
   /********** MEDIA QUERIES **********/
   @media screen and (max-width :900px){
     .col{

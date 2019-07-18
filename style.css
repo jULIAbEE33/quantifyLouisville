@@ -21,6 +21,9 @@ h4, p {
     color: black;
 }
 
+h4 {
+    text-align: center;
+}
 .landing-text h1 {
     font-size: 5em;
     font-weight: 700;
@@ -47,6 +50,10 @@ footer {
 
 .mike {
     border-radius: 50%;
+}
+
+.icon{
+    text-align: left;
 }
 /********** PSEUDO-ELEMENTS AND FONT AWESOME ICONS **********/
 .fa {
