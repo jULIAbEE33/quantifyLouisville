@@ -1,6 +1,6 @@
 /*****<JavaScript countdown timer>*****/
 /***** Enter the coming soon date to initiate timer countdown *****/
-var comingdate = new Date("Aug 1, 2019 00:00:00");
+var comingdate = new Date("Aug 19, 2019 00:00:00");
 
 var d = document.getElementById('d');
 var h = document.getElementById('h');
